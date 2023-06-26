@@ -1,7 +1,7 @@
 import unittest
 from main import *
 
-class TestFabrykaHulajnog(unittest.TestCase):
+class test_b(unittest.TestCase):
 
     def test_utworz_hulajnoge(self):
         fabryka = FabrykaHulajnog()
